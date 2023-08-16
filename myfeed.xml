@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Example RSS Feed</title>
+    <link>https://www.example.com</link>
+    <description>This is an example RSS feed.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Aug 2023 12:00:00 GMT</lastBuildDate>
+    <pubDate>Mon, 16 Aug 2023 10:00:00 GMT</pubDate>
+    
+    <item>
+      <title>Sample Article 1</title>
+      <link>https://www.example.com/sample-article-1</link>
+      <description>This is the first sample article in the feed.</description>
+      <pubDate>Sun, 15 Aug 2023 15:00:00 GMT</pubDate>
+      <author>author1@example.com (Author 1)</author>
+      <guid>https://www.example.com/sample-article-1</guid>
+    </item>
+    
+    <item>
+      <title>Sample Article 2</title>
+      <link>https://www.example.com/sample-article-2</link>
+      <description>This is the second sample article in the feed.</description>
+      <pubDate>Sat, 14 Aug 2023 14:00:00 GMT</pubDate>
+      <author>author2@example.com (Author 2)</author>
+      <guid>https://www.example.com/sample-article-2</guid>
+    </item>
+    
+    <!-- Add more <item> elements for additional articles -->
+    
+  </channel>
+</rss>
