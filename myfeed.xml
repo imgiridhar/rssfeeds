@@ -9,7 +9,7 @@
     
     <!-- Add individual news items -->
     <item>
-      <title>Exciting Match Results</title>
+      <title>Exciting Match Result</title>
       <link>https://www.example.com/sports/article1</link>
       <pubDate>Sun, 21 Aug 2023 14:30:00 GMT</pubDate>
       <description>The latest match results and highlights.</description>
