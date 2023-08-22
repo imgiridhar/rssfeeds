@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sports News Feed</title>
+    <link>https://www.example.com/sports</link>
+    <description>Stay updated with the latest sports news.</description>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 22 Aug 2023 00:00:00 GMT</lastBuildDate>
+    
+    <!-- Add individual news items -->
+    <item>
+      <title>Exciting Match Result</title>
+      <link>https://www.example.com/sports/article1</link>
+      <pubDate>Sun, 21 Aug 2023 14:30:00 GMT</pubDate>
+      <description>The latest match results and highlights.</description>
+      <category>Soccer</category>
+    </item>
+    
+    <item>
+      <title>Record-breaking Performance</title>
+      <link>https://www.example.com/sports/article2</link>
+      <pubDate>Sat, 20 Aug 2023 10:15:00 GMT</pubDate>
+      <description>A player achieves a new record in the game.</description>
+      <category>Basketball</category>
+    </item>
+
+      <item>
+      <title>New article for today</title>
+      <link>https://www.example.com/sports/article2</link>
+      <pubDate>Sat, 20 Aug 2023 10:15:00 GMT</pubDate>
+      <description>A player achieves a new record in the game.</description>
+      <category>Basketball</category>
+    </item>
+    
+     <item>
+      <title>New article for today second</title>
+      <link>https://www.example.com/sports/article2</link>
+      <pubDate>Sat, 20 Aug 2023 10:15:00 GMT</pubDate>
+      <description>A player achieves a new record in the game.</description>
+      <category>Basketball</category>
+    </item>
+    <!-- Add more news items here -->
+    
+  </channel>
+</rss>
