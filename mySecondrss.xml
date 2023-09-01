@@ -1,27 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
-    <title>Your RSS Feed Title</title>
-    <description>Your RSS Feed Description</description>
-    <pubDate>Thu, 01 Sep 2023 12:00:00 GMT</pubDate>
-    <link>http://example.com</link>
-    <guid>http://example.com</guid>
+    <title>MARKETING</title>
+    <description>In today’s digital age, mobile devices have become an extension of ourselves. Discover the tips and techniques marketers need to prosper in the mobile era.</description>
+    <pubDate>Thu, 05 May 2023 12:00:00 GMT</pubDate>
+    <link>https://www.mirabelsmarketingmanager.com/blog/</link>
+    <guid>https://www.mirabelsmarketingmanager.com/blog/</guid>
 
     <!-- Author and dc:creator for the channel -->
-    <author>editor@example.com (Editor Name)</author>
-    <dc:creator>editor@example.com (Editor Name)</dc:creator>
+    <author>Victoria Ang</author>
+    <dc:creator>Victoria Ang</dc:creator>
 
     <!-- An example item with an image in the description -->
     <item>
-      <title>Item Title 1</title>
-      <description><![CDATA[<img src="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" alt="Image Alt Text" /><br />This is the description of Item 1.]]></description>
-      <pubDate>Fri, 02 Sep 2023 12:00:00 GMT</pubDate>
-      <link>http://example.com/item1</link>
-      <guid>http://example.com/item1</guid>
+      <title>BAD SENDER REPUTATION? HERE'S HOW TO CHECK YOURS AND ULTIMATELY FIX IT</title>
+      <description><![CDATA[<img src="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" alt="Image Alt Text" /><br />Email is a strong marketing strategy to directly reach your digital audience and keep them informed on product updates, service announcements, special offers, and more.
+However, email marketing may prove ineffective if not successfully delivered to inboxes. One key factor that affects email deliverability is your sender reputation. Sender reputation goes by a few common names: Email sender reputation, sender score, domain reputation.
+Yet, no matter what you call it, email sender reputation describes how Internet Service Providers (ISPs) like Google, Microsoft, and Yahoo judge your outgoing email. More specific inbox providers include Gmail, Outlook, Yahoo, and Hotmail..]]></description>
+      <pubDate>Thu, 05 May 2023 12:00:00 GMT</pubDate>
+      <link>https://www.mirabelsmarketingmanager.com/blog/how-do-you-check-your-sender-reputation-and-how-can-you-fix-a-bad-one/</link>
+      <guid>https://www.mirabelsmarketingmanager.com/blog/how-do-you-check-your-sender-reputation-and-how-can-you-fix-a-bad-one/</guid>
 
       <!-- Author and dc:creator for the item -->
-      <author>author1@example.com (Author 1 Name)</author>
-      <dc:creator>author1@example.com (Author 1 Name)</dc:creator>
+      <author>Victoria Ang</author>
+      <dc:creator>Victoria Ang</dc:creator>
     </item>
 
     <!-- Add more items with images in the description as needed -->
