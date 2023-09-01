@@ -14,7 +14,7 @@
     <!-- An example item with an image in the description -->
     <item>
       <title>Item Title 1</title>
-      <description><![CDATA[<img src="http://example.com/image.jpg" alt="Image Alt Text" /><br />This is the description of Item 1.]]></description>
+      <description><![CDATA[<img src="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" alt="Image Alt Text" /><br />This is the description of Item 1.]]></description>
       <pubDate>Fri, 02 Sep 2023 12:00:00 GMT</pubDate>
       <link>http://example.com/item1</link>
       <guid>http://example.com/item1</guid>
