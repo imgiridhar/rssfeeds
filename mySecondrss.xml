@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>MARKETING</title>
-    <link>https://www.mirabelsmarketingmanager.com/blog/</link>
-    <description>In today’s digital age, mobile devices have become an extension of ourselves. Discover the tips and techniques marketers need to prosper in the mobile era.</description>
-    <language>en-us</language>
-
-    <!-- Additional Channel Information -->
-
-
-    <!-- An example item with an image in the description -->
-    <item>
-      <title>BAD SENDER REPUTATION? HERE’S HOW TO CHECK YOURS AND ULTIMATELY FIX IT</title>
-      <link>http://example.com/item1</link>
-      <description><![CDATA[<img src="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" alt="Image Alt Text" /><br />Email is a strong marketing strategy to directly reach your digital audience and keep them informed on product updates, service announcements, special offers, and more.However, email marketing may prove ineffective if not successfully delivered to inboxes. One key factor that affects email deliverability is your sender reputation. Sender reputation goes by a few common names: Email sender reputation, sender score, domain reputation.Yet, no matter what you call it, email sender reputation describes how Internet Service Providers (ISPs) like Google, Microsoft, and Yahoo judge your outgoing email. More specific inbox providers include Gmail, Outlook, Yahoo, and Hotmail.How do you determine a good email reputation? That’s where a sender score comes in. Your email reputation sits on a metaphorical scale of 0 to 100. The closer to 100 your sender score is, the better and stronger your email marketing sender reputation is.]]></description>
-      <pubDate>FThu, 25 may 2023 12:00:00 GMT</pubDate>
-      <dc:creator>author1@example.com (Author 1 Name)</dc:creator>
-    </item>
-
-    <!-- Add more items with images in the description as needed -->
-
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+<title>MARKETING</title>
+<link>https://www.mirabelsmarketingmanager.com/blog/</link>
+<description>In today's digital age, mobile devices have become an extension of ourselves. Discover the tips and techniques marketers need to prosper in the mobile era.</description>
+<language>en-gb</language>
+<lastBuildDate>2023-09-01T20:11:53+05:30</lastBuildDate>
+<atom:link type="application/rss+xml" rel="self" href="https://www.mirabelsmarketingmanager.com/blog/"/>
+<item>
+<title>BAD SENDER REPUTATION? HERE'S HOW TO CHECK YOURS AND ULTIMATELY FIX IT</title>
+<description><a href="https://www.mirabelsmarketingmanager.com/blog/how-do-you-check-your-sender-reputation-and-how-can-you-fix-a-bad-one/"><img border="0" hspace="10" align="left" style="margin-top:3px;margin-right:5px;" src="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" /></a>Email is a strong marketing strategy to directly reach your digital audience and keep them informed on product updates, service announcements, special offers, and more.However, email marketing may prove ineffective if not successfully delivered to inboxes. One key factor that affects email deliverability is your sender reputation. Sender reputation goes by a few common names: Email sender reputation, sender score, domain reputation.Yet, no matter what you call it, email sender reputation describes how Internet Service Providers (ISPs) like Google, Microsoft, and Yahoo judge your outgoing email. More specific inbox providers include Gmail, Outlook, Yahoo, and Hotmail.</description>
+<link>https://www.mirabelsmarketingmanager.com/blog/how-do-you-check-your-sender-reputation-and-how-can-you-fix-a-bad-one/</link>
+<guid>https://www.mirabelsmarketingmanager.com/blog/how-do-you-check-your-sender-reputation-and-how-can-you-fix-a-bad-one/</guid>
+<pubDate>2023-05-25T19:51:52+05:30</pubDate>
+<enclosure type="image/jpeg" url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg"/>
+</item>
+</channel>
 </rss>
