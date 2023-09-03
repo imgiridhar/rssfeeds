@@ -23,7 +23,7 @@ However, email marketing may prove ineffective if not successfully delivered to 
       <!-- Author and dc:creator for the item -->
       <author>Victoria Ang</author>
       <dc:creator>Victoria Ang</dc:creator>
-       <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" type="image/jpeg" length="12345" />
+       <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f63abde5442625d8ed8abbc_shutterstock_1570126813-2.jpg" type="image/jpeg" length="12345"/>
     </item>
     <item>
       <title>WHY VALID EMAIL ADDRESSES ARE ESSENTIAL … AND INVALID ONES CAN BE DANGEROUS!</title>
@@ -35,7 +35,7 @@ However, email marketing may prove ineffective if not successfully delivered to 
       <!-- Author and dc:creator for the item -->
       <author>Victoria Ang</author>
       <dc:creator>Victoria Ang</dc:creator>
-      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f6b350e75555227ec430b22_shutterstock_1049177441-1.jpg" type="image/jpeg" length="12345" />
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5f6b350e75555227ec430b22_shutterstock_1049177441-1.jpg" type="image/jpeg" length="12345"/>
     </item>
         <item>
       <title>RISE THROUGH THE RANKS: THE BEST TOOLS FOR SEO BEGINNERS</title>
@@ -49,9 +49,42 @@ When people search for anything on Google (www.google.com), it “crawls” the 
       <!-- Author and dc:creator for the item -->
       <author>Victoria Ang</author>
       <dc:creator>Victoria Ang</dc:creator>
-      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5fd99832ce026833065c7197_Best-Tools-for-SEO-Beginners.jpg" type="image/jpeg" length="12345" />
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5fd99832ce026833065c7197_Best-Tools-for-SEO-Beginners.jpg" type="image/jpeg" length="12345"/>
     </item>
-    
+    <item>
+    <title>REAL-TIME MARKETING: EXAMPLES, TOOLS, AND BENEFITS FOR EFFECTIVE CAMPAIGNS</title>
+      <description>A clothing retailer — let's call it Fashionista — was looking to increase sales during the holiday season. To achieve this goal, they decided to use real-time marketing to deliver personalized content and promotions to their customers.</description>
+      <pubDate>Tue, 24 Jan 2023 12:00:00 GMT</pubDate>
+      <link>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</link>
+      <guid>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</guid>
+
+      <!-- Author and dc:creator for the item -->
+      <author>Victoria Ang</author>
+      <dc:creator>Victoria Ang</dc:creator>
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2023/02/real-time-marketing.jpg"/>
+    </item>
+    <title>WHY YOU SHOULD OPTIMIZE YOUR MARKETING STRATEGY WITH A MARKETING AUTOMATION SOFTWARE</title>
+      <description>Digital marketers are always looking for new and innovative ways to streamline and develop strategies that are efficient and effective. The goal of every digital marketing strategy, no matter the industry, is to provide a solution to a customer's problem.</description>
+      <pubDate>Wed, 23 Nov 2022 12:00:00 GMT</pubDate>
+      <link>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</link>
+      <guid>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</guid>
+
+      <!-- Author and dc:creator for the item -->
+      <author>Carena Marchi</author>
+      <dc:creator>Carena Marchi</dc:creator>
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/6076ea3eee93d7806c297291_shutterstock_1041718081.jpg"/>
+    </item>
+     <title>ARE YOUR MARKETING EMAILS ILLEGAL? HOW TO COMPLY (AND THRIVE) WITH THE CAN-SPAM ACT</title>
+      <description>We've all been there. Standing in line for a cup of overpriced coffee, reluctantly deciding to click on the little envelope icon on our smartphones because we know exactly what’s coming: a flood of emails with everything from sales on shoes from a store you barely remember visiting to deals on yoga classes that never seem to stop coming in after you innocently attended a studio's free week trial. After a certain point, you stop deleting these messages altogether.</description>
+      <pubDate>Wed, 05 Jul 2023 12:00:00 GMT</pubDate>
+      <link>https://www.mirabelsmarketingmanager.com/blog/how-to-comply-with-the-can-spam-act/</link>
+      <guid>https://www.mirabelsmarketingmanager.com/blog/how-to-comply-with-the-can-spam-act/</guid>
+
+      <!-- Author and dc:creator for the item -->
+      <author>Carena Marchi</author>
+      <dc:creator>Carena Marchi</dc:creator>
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/07/5f63af76936a5704bd8f1e2d_shutterstock_272455511.jpg"/>
+    </item>
     
 
 
