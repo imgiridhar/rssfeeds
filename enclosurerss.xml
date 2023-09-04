@@ -11,6 +11,33 @@
     <author>Victoria Ang</author>
     <dc:creator>Victoria Ang</dc:creator>
 
+     <item>
+    <title>REAL-TIME MARKETING: EXAMPLES, TOOLS, AND BENEFITS FOR EFFECTIVE CAMPAIGNS</title>
+      <description>A clothing retailer — let's call it Fashionista — was looking to increase sales during the holiday season. To achieve this goal, they decided to use real-time marketing to deliver personalized content and promotions to their customers.</description>
+      <pubDate>Tue, 24 Jan 2023 12:00:00 GMT</pubDate>
+      <link>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</link>
+      <guid>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</guid>
+
+      <!-- Author and dc:creator for the item -->
+      <author>Victoria Ang</author>
+      <dc:creator>Victoria Ang</dc:creator>
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2023/02/real-time-marketing.jpg"/>
+    </item>
+
+    <item>
+    <title>WHY YOU SHOULD OPTIMIZE YOUR MARKETING STRATEGY WITH A MARKETING AUTOMATION SOFTWARE</title>
+      <description>Digital marketers are always looking for new and innovative ways to streamline and develop strategies that are efficient and effective. The goal of every digital marketing strategy, no matter the industry, is to provide a solution to a customer's problem.</description>
+      <pubDate>Wed, 23 Nov 2022 12:00:00 GMT</pubDate>
+      <link>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</link>
+      <guid>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</guid>
+
+      <!-- Author and dc:creator for the item -->
+      <author>Carena Marchi</author>
+      <dc:creator>Carena Marchi</dc:creator>
+      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/6076ea3eee93d7806c297291_shutterstock_1041718081.jpg"/>
+    </item>
+
+
     <!-- An example item with an image in the description -->
     <item>
       <title>BAD SENDER REPUTATION? HERE'S HOW TO CHECK YOURS AND ULTIMATELY FIX IT</title>
@@ -50,29 +77,6 @@ When people search for anything on Google (www.google.com), it “crawls” the 
       <author>Victoria Ang</author>
       <dc:creator>Victoria Ang</dc:creator>
       <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/5fd99832ce026833065c7197_Best-Tools-for-SEO-Beginners.jpg" type="image/jpeg" length="12345"/>
-    </item>
-    <item>
-    <title>REAL-TIME MARKETING: EXAMPLES, TOOLS, AND BENEFITS FOR EFFECTIVE CAMPAIGNS</title>
-      <description>A clothing retailer — let's call it Fashionista — was looking to increase sales during the holiday season. To achieve this goal, they decided to use real-time marketing to deliver personalized content and promotions to their customers.</description>
-      <pubDate>Tue, 24 Jan 2023 12:00:00 GMT</pubDate>
-      <link>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</link>
-      <guid>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</guid>
-
-      <!-- Author and dc:creator for the item -->
-      <author>Victoria Ang</author>
-      <dc:creator>Victoria Ang</dc:creator>
-      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2023/02/real-time-marketing.jpg"/>
-    </item>
-    <title>WHY YOU SHOULD OPTIMIZE YOUR MARKETING STRATEGY WITH A MARKETING AUTOMATION SOFTWARE</title>
-      <description>Digital marketers are always looking for new and innovative ways to streamline and develop strategies that are efficient and effective. The goal of every digital marketing strategy, no matter the industry, is to provide a solution to a customer's problem.</description>
-      <pubDate>Wed, 23 Nov 2022 12:00:00 GMT</pubDate>
-      <link>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</link>
-      <guid>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</guid>
-
-      <!-- Author and dc:creator for the item -->
-      <author>Carena Marchi</author>
-      <dc:creator>Carena Marchi</dc:creator>
-      <enclosure url="https://www.mirabelsmarketingmanager.com/wp-content/uploads/2021/06/6076ea3eee93d7806c297291_shutterstock_1041718081.jpg"/>
     </item>
     
 
