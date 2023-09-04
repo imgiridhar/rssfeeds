@@ -8,7 +8,6 @@
     <guid>https://www.mirabelsmarketingmanager.com/blog/</guid>
 
     <!-- Author and dc:creator for the channel -->
-    <author>Victoria Ang</author>
     <dc:creator>Victoria Ang</dc:creator>
 
     <!-- An example item with an image in the description -->
@@ -22,7 +21,6 @@
       <guid>https://www.mirabelsmarketingmanager.com/blog/real-time-marketing/</guid>
 
       <!-- Author and dc:creator for the item -->
-      <author>Victoria Ang</author>
       <dc:creator>Victoria Ang</dc:creator>
     </item>
 
@@ -32,9 +30,6 @@
       <pubDate>Wed, 23 Nov 2022 12:00:00 GMT</pubDate>
       <link>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</link>
       <guid>https://www.mirabelsmarketingmanager.com/blog/why-you-should-optimize-your-marketing-strategy-with-a-marketing-automation-software/</guid>
-
-      <!-- Author and dc:creator for the item -->
-      <author>Carena Marchi</author>
       <dc:creator>Carena Marchi</dc:creator>
     </item>
 
@@ -45,9 +40,6 @@
       <pubDate>Wed, 05 Jul 2023 12:00:00 GMT</pubDate>
       <link>https://www.mirabelsmarketingmanager.com/blog/how-to-comply-with-the-can-spam-act</link>
       <guid>https://www.mirabelsmarketingmanager.com/blog/how-to-comply-with-the-can-spam-act</guid>
-
-      <!-- Author and dc:creator for the item -->
-      <author>Carena Marchi<</author>
       <dc:creator>Carena Marchi</dc:creator>
     </item>
     <!-- Add more items with images in the description as needed -->
