@@ -9,36 +9,29 @@
     
     <!-- Add individual news items -->
     <item>
-      <title>Exciting Match Result</title>
-      <link>https://www.example.com/sports/article1</link>
-      <pubDate>Sun, 21 Aug 2023 14:30:00 GMT</pubDate>
-      <description>The latest match results and highlights.</description>
-      <category>Soccer</category>
-    </item>
-    
-    <item>
-      <title>Record-breaking Performance</title>
-      <link>https://www.example.com/sports/article2</link>
-      <pubDate>Sat, 20 Aug 2023 10:15:00 GMT</pubDate>
-      <description>A player achieves a new record in the game.</description>
-      <category>Basketball</category>
-    </item>
+    <title>Team Wins Championship</title>
+    <link>https://www.example.com/sports/article3</link>
+    <pubDate>Mon, 25 Sep 2023 15:30:00 GMT</pubDate>
+    <description>The team clinches the championship title after a hard-fought season.</description>
+    <category>Basketball</category>
+</item>
 
-      <item>
-      <title>New article for today</title>
-      <link>https://www.example.com/sports/article2</link>
-      <pubDate>Sat, 20 Aug 2023 10:15:00 GMT</pubDate>
-      <description>A player achieves a new record in the game.</description>
-      <category>Basketball</category>
-    </item>
-    
-     <item>
-      <title>New article for today second</title>
-      <link>https://www.example.com/sports/article2</link>
-      <pubDate>Sat, 20 Aug 2023 10:15:00 GMT</pubDate>
-      <description>A player achieves a new record in the game.</description>
-      <category>Basketball</category>
-    </item>
+<item>
+    <title>New World Record Set</title>
+    <link>https://www.example.com/sports/article4</link>
+    <pubDate>Wed, 15 Nov 2023 09:45:00 GMT</pubDate>
+    <description>An athlete breaks a longstanding world record in track and field.</description>
+    <category>Athletics</category>
+</item>
+
+<item>
+    <title>Historic Upset in Tennis Tournament</title>
+    <link>https://www.example.com/sports/article5</link>
+    <pubDate>Fri, 03 Feb 2023 18:20:00 GMT</pubDate>
+    <description>An underdog defeats the reigning champion in a thrilling match.</description>
+    <category>Tennis</category>
+</item>
+
     <!-- Add more news items here -->
     
   </channel>
